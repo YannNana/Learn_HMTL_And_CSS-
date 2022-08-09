@@ -1,0 +1,16 @@
+h2{
+    color: brown;
+    text-align: center;
+}
+
+body{
+    background-image: url("images/cv.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+p b {
+
+    border: 3px solid black;
+    box-shadow: 6px 6px 6px black;
+}
