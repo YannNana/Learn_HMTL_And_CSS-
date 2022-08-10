@@ -18,3 +18,13 @@ p b {
 #liberé{
     display: flex;
 }
+
+img{
+    float:left;
+    border: 1px solid black;
+}
+
+section{
+    display: block;
+    
+}
